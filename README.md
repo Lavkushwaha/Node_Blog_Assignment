@@ -1,4 +1,4 @@
-<img src="blogs.png" align="right" />
+<img src="blog.png" align="right" />
 
 # Nodejs-Express-Mongodb Blog With JWT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -10,7 +10,7 @@ Nodejs ,Mongoose Based Basic Blog REST API, For authentication JWT is used.
 
 ### Prerequisites
 
-What things you need to install the soft8ed710111d35d508e43d89c01d074a4d6d4a007aware and how to install them
+What things you need to install the software and how to install them
 
 ```
 REST Framework
