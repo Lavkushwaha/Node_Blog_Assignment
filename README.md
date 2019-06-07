@@ -1,17 +1,22 @@
 # Project Title
 
-One Paragraph of project description goes here
+Blog Assignment | Lithion Power
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Nodejs ,Mongoose Based Basic Blog REST API, For authentication JWT is used. 
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
 ```
-Give examples
+REST Framework
+Mongodb Compass, Mongoose
+NODE JS
+Express
+Json Web Tokens
+Postman
 ```
 
 ### Installing
@@ -21,60 +26,47 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+Clone this repo from above url
 ```
 
-And repeat
+And open postman to check API calls
 
 ```
-until finished
+npm i
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
+## Running 
 ```
-Give an example
-```
+npm start
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
 ```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Soon.....
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Node](https://nodejs.org/) - The Node js framework used
+* [Mongodb](https://www.mongodb.com/) - Database
+* [JWT](https://jwt.io/) - Session Management and Authentication
+* [POSTMAN](https://www.getpostman.com/) - Checking API Calls
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+soon....
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+soon....
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Lavkant Kachhwaha**  - [incals](https://github.com/Lavkushwaha)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 
 ## License
 
@@ -82,6 +74,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Hat tip - [Medium],[Youtube],[w3]
+* Inspiration - [TraversyMedia]
+
