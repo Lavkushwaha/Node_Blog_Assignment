@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <img src="blog.png" align="right" /> 
 # Nodejs-Express-Mongodb Blog With JWT  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+=======
+# Nodejs-Express-Mongodb Blog With JWT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+>>>>>>> 8ed710111d35d508e43d89c01d074a4d6d4a007a
 
 Blog Assignment | Lithion Power
 
